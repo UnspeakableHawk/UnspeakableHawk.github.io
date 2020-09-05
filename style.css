@@ -88,13 +88,13 @@ a:link {
   }
   
   a:hover {
-    color:lightskyblue;padding: 10px;
+    color:lightskyblue;padding: 5px;
     background-color: transparent;
     text-decoration: underline;
   }
   
   a:active {
-    color: green; padding: 10px;
+    color: green; padding: 5px;
     background-color: rgb(151, 226, 97);
     text-decoration: underline;
 
