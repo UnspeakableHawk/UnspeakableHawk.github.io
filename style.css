@@ -78,15 +78,11 @@ border-radius:10px;border: 2px solid green; }
 a:link {
     color: green;
     background-color: transparent;
-    text-decoration: none;-moz-border-radius:10px;
--webkit-border-radius:10px;
-border-radius:10px;: 2px solid;padding: 10px;align-self: center;
+    text-decoration: none;align-self: center;
   }
   
   a:visited {
-    color: green;-moz-border-radius:10px;
--webkit-border-radius:10px;padding: 10px;
-border-radius:10px;: 2px solid;
+    color: green;
     background-color: transparent;
     text-decoration: none;
   }
@@ -94,17 +90,13 @@ border-radius:10px;: 2px solid;
   a:hover {
     color:lightskyblue;padding: 10px;
     background-color: transparent;
-    text-decoration: underline;-moz-border-radius:10px;
--webkit-border-radius:10px;
-border-radius:10px;;
+    text-decoration: underline;
   }
   
   a:active {
     color: green; padding: 10px;
     background-color: rgb(151, 226, 97);
-    text-decoration: underline;-moz-border-radius:10px;
--webkit-border-radius:10px;
-border-radius:10px;;}
+    text-decoration: underline;
 
 
 
