@@ -39,13 +39,13 @@ a:link {
     background-color: transparent;
     text-decoration: none;-moz-border-radius:10px;
 -webkit-border-radius:10px;
-border-radius:10px;border: 2px solid;padding: 10px;align-self: center;
+border-radius:10px;: 2px solid;padding: 10px;align-self: center;
   }
   
   a:visited {
     color: green;-moz-border-radius:10px;
 -webkit-border-radius:10px;padding: 10px;
-border-radius:10px;border: 2px solid;
+border-radius:10px;: 2px solid;
     background-color: transparent;
     text-decoration: none;
   }
@@ -55,7 +55,7 @@ border-radius:10px;border: 2px solid;
     background-color: transparent;
     text-decoration: underline;-moz-border-radius:10px;
 -webkit-border-radius:10px;
-border-radius:10px;border: 5px solid;
+border-radius:10px;;
   }
   
   a:active {
@@ -63,7 +63,7 @@ border-radius:10px;border: 5px solid;
     background-color: rgb(151, 226, 97);
     text-decoration: underline;-moz-border-radius:10px;
 -webkit-border-radius:10px;
-border-radius:10px;border: 2px solid green;}
+border-radius:10px;;}
 
 @media (orientation: portrait){
     
