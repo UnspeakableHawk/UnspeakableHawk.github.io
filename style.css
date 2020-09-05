@@ -63,12 +63,11 @@ border-radius:10px;border: 5px solid;
     background-color: rgb(151, 226, 97);
     text-decoration: underline;-moz-border-radius:10px;
 -webkit-border-radius:10px;
-border-radius:10px;border: 2px solid green;
-  }
+border-radius:10px;border: 2px solid green;}
 
 @media (orientation: portrait){
     
-    a {padding: 5px} 
+    a {padding: 4 1 2 1} 
     
     
     
